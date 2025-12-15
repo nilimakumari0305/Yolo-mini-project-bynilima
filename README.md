@@ -2,7 +2,7 @@
 YOLOv8 mini project - image + webcam detection
 
 # YOLOv8 Real-Time Object Detection – Mini Project
-This repository contains my mini project for applying to the ETH Zurich Student Summer Research Fellowship 2026. It focuses on real-time object detection with YOLOv8 using Python, VS Code / Jupyter, and a simple Streamlit app.
+This repository contains my mini project. It focuses on real-time object detection with YOLOv8 using Python, VS Code / Jupyter, and a simple Streamlit app.
 
 ## Project overview
 - Implemented YOLOv8 object detection in Python using the ultralytics library.
